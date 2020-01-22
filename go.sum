@@ -69,6 +69,8 @@ github.com/atomix/atomix-go-node v0.0.0-20200114210733-967537ba5e31/go.mod h1:95
 github.com/atomix/atomix-go-node v0.0.0-20200114212450-178a2dc70336/go.mod h1:DIYsaWqOiBkyE+vUgHFMM3+vCq07RUskEWN4W5cEtyE=
 github.com/atomix/atomix-go-node v0.0.0-20200122201244-04ffdbfa38ba h1:k6j2D1xPLi4pHEAldWIPzFi5ReVCBpfJejh3RY/IhcA=
 github.com/atomix/atomix-go-node v0.0.0-20200122201244-04ffdbfa38ba/go.mod h1:Ivu7jH8b9hFTTmWtq9u7TmJQHQqsEmxY0Baa2l/uE6U=
+github.com/atomix/atomix-go-node v0.0.0-20200122235207-5b8d5f54288e h1:ZvrOnLAMmkuXhgDl+p0zxh9PTXi7+dRCG5hc5iz7HPA=
+github.com/atomix/atomix-go-node v0.0.0-20200122235207-5b8d5f54288e/go.mod h1:Ivu7jH8b9hFTTmWtq9u7TmJQHQqsEmxY0Baa2l/uE6U=
 github.com/atomix/atomix-k8s-controller v0.0.0-20191203231043-ae7d3a341174/go.mod h1:nfCaQUuz6VyvpXvcCjre09PLc6vR4tyJ7Vnu7/wt2ZY=
 github.com/atomix/atomix-raft-node v0.0.0-20200122201411-b7a3d697b1eb h1:KlY3A/Ee50CE351bXqMnygdtjmXGv+tK1y3WYkj7JGk=
 github.com/atomix/atomix-raft-node v0.0.0-20200122201411-b7a3d697b1eb/go.mod h1:863xE+XqX6ecTSTArw2h6PSaNiUyvosKAjdiSDDdIWY=
