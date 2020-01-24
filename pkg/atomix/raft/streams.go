@@ -15,7 +15,7 @@
 package raft
 
 import (
-	streams "github.com/atomix/atomix-go-node/pkg/atomix/stream"
+	streams "github.com/atomix/go-framework/pkg/atomix/stream"
 	"sync"
 )
 

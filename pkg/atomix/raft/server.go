@@ -15,7 +15,7 @@
 package raft
 
 import (
-	"github.com/atomix/atomix-go-node/pkg/atomix/cluster"
+	"github.com/atomix/go-framework/pkg/atomix/cluster"
 )
 
 // newServer returns a new protocol server

@@ -1,12 +1,11 @@
-module github.com/atomix/atomix-etcd-raft-node
+module github.com/atomix/etcd-raft-replica
 
 go 1.12
 
 require (
-	github.com/atomix/atomix-api v0.0.0-20200114202737-fac5129dc110
-	github.com/atomix/atomix-go-client v0.0.0-20200114212658-58c359bc47b1
-	github.com/atomix/atomix-go-node v0.0.0-20200122235207-5b8d5f54288e
-	github.com/atomix/atomix-raft-node v0.0.0-20200122201411-b7a3d697b1eb
+	github.com/atomix/api v0.0.0-20200123231207-4e5fb1cbaf40
+	github.com/atomix/atomix-go-client v0.0.0-20200114212658-58c359bc47b1 // indirect
+	github.com/atomix/go-framework v0.0.0-20200124005401-251d56394345
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.3.2
 	github.com/hashicorp/raft v1.1.1

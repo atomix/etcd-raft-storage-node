@@ -16,10 +16,10 @@ package raft
 
 import (
 	"encoding/binary"
-	"github.com/atomix/atomix-go-node/pkg/atomix/cluster"
-	"github.com/atomix/atomix-go-node/pkg/atomix/node"
-	"github.com/atomix/atomix-go-node/pkg/atomix/service"
-	streams "github.com/atomix/atomix-go-node/pkg/atomix/stream"
+	"github.com/atomix/go-framework/pkg/atomix/cluster"
+	"github.com/atomix/go-framework/pkg/atomix/node"
+	"github.com/atomix/go-framework/pkg/atomix/service"
+	streams "github.com/atomix/go-framework/pkg/atomix/stream"
 	"github.com/gogo/protobuf/proto"
 	"go.etcd.io/etcd/raft/raftpb"
 	"io"

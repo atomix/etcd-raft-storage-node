@@ -16,9 +16,9 @@ package raft
 
 import (
 	"fmt"
-	"github.com/atomix/atomix-go-node/pkg/atomix/cluster"
-	"github.com/atomix/atomix-go-node/pkg/atomix/node"
-	"github.com/atomix/atomix-raft-node/pkg/atomix/raft/config"
+	"github.com/atomix/etcd-raft-replica/pkg/atomix/raft/config"
+	"github.com/atomix/go-framework/pkg/atomix/cluster"
+	"github.com/atomix/go-framework/pkg/atomix/node"
 	"sort"
 )
 

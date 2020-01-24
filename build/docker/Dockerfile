@@ -2,6 +2,6 @@ FROM alpine:3.9
 
 USER nobody
 
-ADD build/_output/atomix-etcd-raft-node /usr/local/bin/atomix-etcd-raft-node
+ADD build/_output/etcd-raft-replica /usr/local/bin/etcd-raft-replica
 
-ENTRYPOINT ["atomix-etcd-raft-node"]
+ENTRYPOINT ["etcd-raft-replica"]
